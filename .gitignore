@@ -1,1 +1,12 @@
-.
+# Jupyter Notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+data/
